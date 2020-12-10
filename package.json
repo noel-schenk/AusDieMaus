@@ -5,6 +5,7 @@
   },
   "license": "UNLICENSED",
   "dependencies": {
+    "@tensorflow/tfjs": "^2.7.0",
     "@types/clone": "^2.1.0",
     "clone": "^2.1.2",
     "htm": "^3.0.4",
